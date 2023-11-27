@@ -5,3 +5,13 @@
 .paragraph {
     line-height: 10px;
 }
+
+/* ------article1------- */
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
