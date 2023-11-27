@@ -5,3 +5,7 @@
 .paragraph {
     line-height: 10px;
 }
+
+.img {
+    background-color: red;
+}
