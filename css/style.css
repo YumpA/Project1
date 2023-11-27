@@ -6,6 +6,7 @@
     line-height: 10px;
 }
 
+
 /* ------article1------- */
 
 ul {
@@ -14,4 +15,7 @@ ul {
 
 li {
     list-style: none;
+}
+.img {
+    background-color: red;
 }
