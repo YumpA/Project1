@@ -1,0 +1,17 @@
+.hello {
+    font-weight: 700;
+}
+
+.paragraph {
+    line-height: 10px;
+}
+
+/* ------article1------- */
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
