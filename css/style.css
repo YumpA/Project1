@@ -6,6 +6,18 @@
     line-height: 10px;
 }
 
-.img1 {
+
+
+/* ------article1------- */
+
+ul {
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+.img {
+
     background-color: red;
 }
